@@ -15,7 +15,6 @@ pip install Pitgamers_ytdl
 ## Usage
 To use the Pitgamers_ytdl module to download videos or audio, you can do the following:
 
-Copy code:
 ```python
 import Pitgamers_ytdl
 
@@ -29,9 +28,10 @@ Pitgamers_ytdl.download_audio(audio_url)
 
 The downloaded file will be saved in the current working directory. If you want to save it to a different location, you can specify the file path when opening the file for writing:
 
-Copy code
+```python
 with open("/path/to/save/file/file_name.mp4", "wb") as f:
   f.write(response.content)
+  ```
 Replace "file_name.mp4" with the desired file name and make sure to specify the correct file extension (".mp4" for video and ".mp3" for audio).
 
 License
