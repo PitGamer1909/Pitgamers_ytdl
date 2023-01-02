@@ -34,5 +34,5 @@ with open("/path/to/save/file/file_name.mp4", "wb") as f:
   ```
 Replace "file_name.mp4" with the desired file name and make sure to specify the correct file extension (".mp4" for video and ".mp3" for audio).
 
-License
-The Pitgamers_ytdl module is licensed under the MIT License. See the LICENSE file for more details.
+## License
+The Pitgamers_ytdl module is licensed under the MIT License. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for more details.
