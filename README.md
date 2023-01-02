@@ -18,13 +18,15 @@ To use the Pitgamers_ytdl module to download videos or audio, you can do the fol
 Copy code:
 ```python
 import Pitgamers_ytdl
-```
 
 # Replace "video_url" with the URL of the video you want to download
 Pitgamers_ytdl.download_video(video_url)
 
 # Replace "audio_url" with the URL of the audio you want to download
 Pitgamers_ytdl.download_audio(audio_url)
+
+```
+
 The downloaded file will be saved in the current working directory. If you want to save it to a different location, you can specify the file path when opening the file for writing:
 
 Copy code
