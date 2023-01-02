@@ -4,7 +4,7 @@ Pitgamers_ytdl is a Python module that allows you to download YouTube videos and
 ## Installation
 To install the Pitgamers_ytdl module, follow these steps:
 
-Make sure you have the latest version of pip installed: ```bash 
+Make sure you have the latest version of pip installed: ``` 
 pip install --upgrade pip 
 ```
 Use pip to install the Pitgamers_ytdl module: ```bash
